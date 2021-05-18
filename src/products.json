@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Levi Jordan 4(Blue)",
+    "picture": "images/levis-jordan4-distressed.jpg",
+    "brand": "Nike, Jordan",
+    "price": "450",
+    "size": "7, 9.5, 10"
+  },
+  {
+    "id": 1,
+    "name": "Uni Blue 4",
+    "picture": "images/jordan4.png",
+    "brand": "Levi, Jordan",
+    "price": "200",
+    "size": "4, 9, 10"
+  },
+  {
+    "id": 2,
+    "name": "OG Fire Red 4",
+    "picture": "images/jordan4-retro.jpg",
+    "brand": "Nike, Jordan",
+    "price": "275",
+    "size": "7, 8.5, 12"
+  },
+  {
+    "id": 3,
+    "name": "O.F. Jordan 5",
+    "picture": "images/bjordan5right.jpg",
+    "brand": "Off White",
+    "price": "1200",
+    "size": "4, 5, 11"
+  },
+  {
+    "id": 4,
+    "name": "WMS Jordan 4`s",
+    "picture": "images/jordan4back.jpg",
+    "brand": "Off White",
+    "price": "1200",
+    "size": "2, 6.5, 8"
+  },
+  {
+    "id": 5,
+    "name": "O.F. Jordan 5",
+    "picture": "images/jordan5.jpg",
+    "brand": "Off White",
+    "price": "1200",
+    "size": "7, 9.5, 10"
+  },
+  {
+    "id": 6,
+    "name": "Uni Blue 4",
+    "picture": "images/jordan4.png",
+    "brand": "Off White",
+    "price": "315",
+    "size": "8, 8.5, 13"
+  },
+  {
+    "id": 7,
+    "name": "O.F. Unc Jordan 1",
+    "picture": "images/jordan1left.jpeg",
+    "brand": "Off White",
+    "price": "645",
+    "size": "9, 9.5, 11"
+  },
+  {
+    "id": 8,
+    "name": "Uni Blue 4",
+    "picture": "images/jordan4.png",
+    "brand": "Jordan",
+    "price": "250",
+    "size": "6, 11.5, 12"
+  },
+  {
+    "id": 9,
+    "name": "Island 5",
+    "picture": "images/island.jpg",
+    "brand": "Jordan",
+    "price": "300",
+    "size": "7, 8.5, 10"
+  },
+  {
+    "id": 10,
+    "name": "OG Fire Red 4",
+    "picture": "images/jordan4-retro.jpg",
+    "brand": "Jordan",
+    "price": "315",
+    "size": "4, 5.5, 8"
+  },
+  {
+    "id": 11,
+    "name": "O.F. White 5",
+    "picture": "images/bjordan5right.jpg",
+    "brand": "Off White",
+    "price": "930",
+    "size": "9, 9.5, 10"
+  },
+  {
+    "id": 12,
+    "name": "Levi White 4",
+    "picture": "images/levi-jordan4.jpg",
+    "brand": "Levi",
+    "price": "715",
+    "size": "8, 9.5, 13"
+  },
+  {
+    "id": 13,
+    "name": "Raptor 4",
+    "picture": "images/raptor.jpg",
+    "brand": "Off White",
+    "price": "405",
+    "size": "4, 5.5, 9"
+  },
+  {
+    "id": 14,
+    "name": "O.F. Unc Jordan 1",
+    "picture": "images/jordan1left.jpeg",
+    "brand": "Off White",
+    "price": "580",
+    "size": "7, 9.5, 10"
+  },
+  {
+    "id": 15,
+    "name": "Uni Blue 4",
+    "picture": "images/jordan4.png",
+    "brand": "Jordan",
+    "price": "350",
+    "size": "8 (Only Size Left)"
+  }
+]
